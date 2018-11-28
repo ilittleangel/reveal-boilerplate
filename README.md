@@ -1,4 +1,9 @@
 # reveal-boilerplate
+
+Cloned from "htanjo/reveal-boilerplate" for my presentations
+  
+  
+  
 > Boilerplate for [revela.js](http://lab.hakim.se/reveal-js/) presentation.
 
 ## Features
